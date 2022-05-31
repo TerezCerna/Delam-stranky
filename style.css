@@ -1,0 +1,17 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(24, 23, 23);
+    color: whitesmoke;
+    text-align: center;
+    font-size: 30px;
+    
+}
+.iconify {
+    font-size: 50px;
+    color: whitesmoke;
+}
+.mail {
+    color: white;
+    text-decoration: none;
+
+}
